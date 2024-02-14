@@ -86,5 +86,5 @@
 <ul>
   <li>Github: <a href="https://github.com/Hilmanardiansyah12/Final-ProjectStrukturdata.git
 ">Github</a></li>
-  <li>Youtube: <a href="">Youtube</a></li>
+  <li>Youtube: <a href="https://youtu.be/YJVXkp0GWYw?si=uciNsgx0B2yIyv1_">Youtube</a></li>
 </ul>
