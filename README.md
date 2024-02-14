@@ -84,6 +84,7 @@
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="">Github</a></li>
+  <li>Github: <a href="https://github.com/Hilmanardiansyah12/Final-ProjectStrukturdata.git
+">Github</a></li>
   <li>Youtube: <a href="">Youtube</a></li>
 </ul>
