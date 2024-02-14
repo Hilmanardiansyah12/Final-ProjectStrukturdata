@@ -72,7 +72,15 @@
 </p>
 
 ## Pembagian Tim
-<p>Lorem ipsum sir dolor amet.</p>
+<p>Hilman Ardiansyah
+<li>Bagian Pengerjaan Transaksi Konser</li>
+</p>
+<p>Muhammad Naufal Riyandi
+<li>Bagian Pengerjaan Menentukan Type Data Sistem Konser</li>
+</p>
+<p>Ardelia Lutfiani
+<li>Bagian Pengerjaan Login Admin & Riwayat Transaksi Konser</li>
+</p>
 
 ## Demo Proyek
 <ul>
